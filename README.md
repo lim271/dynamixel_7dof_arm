@@ -1,0 +1,1 @@
+# manipulator_7dof_dynamixel
