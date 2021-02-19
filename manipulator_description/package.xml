@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>manipulator_description</name>
+  <version>2.0.1</version>
+  <description>
+    Dynamixel 7DOF manipulator 3D model description for visualization and simulation 
+  </description>
+  <license>Apache 2.0</license>
+  <author email="jaehyunlim@yonsei.ac.kr">Jaehyun Lim</author>
+  <maintainer email="jaehyunlim@yonsei.ac.kr">Jaehyun Lim</maintainer>
+  <url type="repository">https://github.com/lim271/manipulator_7dof_dynamixel</url>
+  <url type="bugtracker">https://github.com/lim271/manipulator_7dof_dynamixel/issues</url>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>joint_state_publisher</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>xacro</depend>
+  <depend>urdf</depend>
+</package>
