@@ -2,7 +2,7 @@
 # Set minimum required version of cmake, project name and compile options
 ################################################################################
 cmake_minimum_required(VERSION 2.8.3)
-project(manipulator_description)
+project(dynamixel_7dof_arm_description)
 
 ################################################################################
 # Find catkin packages and libraries for catkin and system dependencies

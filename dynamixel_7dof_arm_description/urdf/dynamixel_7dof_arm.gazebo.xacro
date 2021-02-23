@@ -17,9 +17,6 @@
   <!-- World -->
   <gazebo reference="world"/>
 
-  <!-- Link0 -->
-  <RefLink ref="link0"/>
-
   <!-- Link1 -->
   <RefLink ref="link1"/>
 
