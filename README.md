@@ -28,18 +28,32 @@
 |   7   |     0      |   0   | 0.1545m | $\theta_7$ |
 
 ## Bill of material
-|       Item       | Quantity |                      Purchase link                       |
-| :--------------: | :------: | :------------------------------------------------------: |
-|   XM540-W270-R   |    5     | https://www.robotis.com/shop/item.php?it_id=902-0133-000 |
-|   XM430-W350-R   |    4     | https://www.robotis.com/shop/item.php?it_id=902-0118-000 |
-|    FR13-H101K    |    2     | https://www.robotis.com/shop/item.php?it_id=903-0270-300 |
-|    FR13-S102K    |    2     | https://www.robotis.com/shop/item.php?it_id=903-0269-300 |
-|    FR12-H101K    |    1     | https://www.robotis.com/shop/item.php?it_id=903-0239-000 |
-|    FR12-H104K    |    1     | https://www.robotis.com/shop/item.php?it_id=903-0263-100 |
-|    FR12-S102K    |    1     | https://www.robotis.com/shop/item.php?it_id=903-0242-000 |
-| X4P 240mm cable  |    1     | https://www.robotis.com/shop/item.php?it_id=903-0245-000 |
-|     M2.5 nut     |    32    | https://www.robotis.com/shop/item.php?it_id=903-0058-000 |
-|   M2.5*4 bolt    |    12    | https://www.robotis.com/shop/item.php?it_id=903-0063-000 |
-|   M2.5*6 bolt    |    18    | https://www.robotis.com/shop/item.php?it_id=903-0064-000 |
-|   M2.5*10 bolt   |    14    |                            /                             |
-| 3D printed parts |    /     |                          ./stl                           |
+|      Item       | Quantity |                      Purchase link                       |
+| :-------------: | :------: | :------------------------------------------------------: |
+|  XM540-W270-R   |    5     | https://www.robotis.com/shop/item.php?it_id=902-0133-000 |
+|  XM430-W350-R   |    4     | https://www.robotis.com/shop/item.php?it_id=902-0118-000 |
+|   FR13-H101K    |    2     | https://www.robotis.com/shop/item.php?it_id=903-0270-300 |
+|   FR13-S102K    |    2     | https://www.robotis.com/shop/item.php?it_id=903-0269-300 |
+|   FR12-H101K    |    1     | https://www.robotis.com/shop/item.php?it_id=903-0239-000 |
+|   FR12-H104K    |    1     | https://www.robotis.com/shop/item.php?it_id=903-0263-100 |
+|   FR12-S102K    |    1     | https://www.robotis.com/shop/item.php?it_id=903-0242-000 |
+| X4P 240mm cable |    1     | https://www.robotis.com/shop/item.php?it_id=903-0245-000 |
+|    M2.5 nut     |    32    | https://www.robotis.com/shop/item.php?it_id=903-0058-000 |
+|   M2.5*4 bolt   |    12    | https://www.robotis.com/shop/item.php?it_id=903-0063-000 |
+|   M2.5*6 bolt   |    18    | https://www.robotis.com/shop/item.php?it_id=903-0064-000 |
+|  M2.5*10 bolt   |    14    |                            /                             |
+|   link2_part1   |    1     |                  ./stl/link2_part1.stl                   |
+|   link2_part2   |    1     |                  ./stl/link2_part2.stl                   |
+|   link3_part1   |    1     |                  ./stl/link3_part1.stl                   |
+|   link3_part2   |    1     |                  ./stl/link3_part2.stl                   |
+|   link5_part1   |    1     |                  ./stl/link5_part1.stl                   |
+|   link5_part2   |    1     |                  ./stl/link5_part2.stl                   |
+|  gripper_part1  |    1     |                 ./stl/gripper_part1.stl                  |
+|  gripper_part2  |    1     |                 ./stl/gripper_part2.stl                  |
+|  gripper_part3  |    2     |                 ./stl/gripper_part3.stl                  |
+|  gripper_part4  |    1     |                 ./stl/gripper_part4.stl                  |
+|  finger_part1   |    2     |                  ./stl/finger_part1.stl                  |
+|  finger_part2   |    2     |                  ./stl/finger_part2.stl                  |
+|  finger_part3   |    2     |                  ./stl/finger_part3.stl                  |
+| cycloidal_rack  |    2     |                 ./stl/cycloidal_rack.stl                 |
+|      horn       |    1     |                      ./stl/horn.stl                      |
