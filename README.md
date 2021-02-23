@@ -1,6 +1,10 @@
 # Dynamixel 7dof robot manipulator
 
+![manipulator](./stl/manipulator.png)
+
 ## Frame definition
+
+![cad](./stl/cad.png)
 |         | Link length | Joint type |
 | :-----: | :---------: | :--------: |
 | Link 1  |   0.0440m   |  Revolute  |
