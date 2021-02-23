@@ -1,4 +1,4 @@
-# Dynamixel 7dof robot manipulator
+# Dynamixel 7 DOF robot manipulator
 
 ![manipulator](./stl/manipulator.png)
 
