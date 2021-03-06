@@ -17,15 +17,15 @@
 | Gripper |   0.0925m   | Prismatic  |
 
 ## D-H parameters
-|  $i$  | $\alpha_i$ | $a_i$ |  $d_i$  | $\theta_i$ |
-| :---: | :--------: | :---: | :-----: | :--------: |
-|   1   |  $-\pi/2$  |   0   | 0.0980m | $\theta_1$ |
-|   2   |  $\pi/2$   |   0   |    0    | $\theta_2$ |
-|   3   |  $-\pi/2$  |   0   |  0.18m  | $\theta_3$ |
-|   4   |  $\pi/2$   |   0   | 0.1345m | $\theta_4$ |
-|   5   |  $-\pi/2$  |   0   |    0    | $\theta_5$ |
-|   6   |  $\pi/2$   |   0   |    0    | $\theta_6$ |
-|   7   |     0      |   0   | 0.1545m | $\theta_7$ |
+|  i  | &alpha;<sub>i | a<sub>i |  d<sub>i  | &theta;<sub>i |
+| :-: | :-----------: | :-----: | :-------: | :-----------: |
+|  1  |    -&pi;/2    |    0    |  0.0980m  | &theta;<sub>1 |
+|  2  |     &pi;/2    |    0    |     0     | &theta;<sub>2 |
+|  3  |    -&pi;/2    |    0    |  0.1800m  | &theta;<sub>3 |
+|  4  |     &pi;/2    |    0    |  0.1345m  | &theta;<sub>4 |
+|  5  |    -&pi;/2    |    0    |     0     | &theta;<sub>5 |
+|  6  |     &pi;/2    |    0    |     0     | &theta;<sub>6 |
+|  7  |     0         |    0    |  0.1545m  | &theta;<sub>7 |
 
 ## Bill of material
 |         Item         | Quantity |                      Purchase link                       |
